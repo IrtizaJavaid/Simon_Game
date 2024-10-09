@@ -2,4 +2,4 @@
 
 This project was created from local machine
 
-# Simon game... 
+# Simon game For you
